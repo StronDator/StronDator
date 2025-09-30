@@ -1,21 +1,55 @@
-### Hello World 👋
+# 👋 Hi, I'm Andrian
 
-- 🔭 I’m currently working on improving my portfolio
-- 🌱 I’m currently learning Node.
-- 📚 I’m also studying English to enhance my communication skills
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrian-mamchuk/)
-- ⚡ Fun fact: I'm a retail investor in the stock market 📈
+💻 Full-Stack Developer | 🌱 Lifelong Learner | 📈 Retail Investor
 
-### Languages and Tools:
+---
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+### 🚀 About Me
+
+- 🔭 Working on improving my **portfolio projects**
+- 🌱 Currently learning **Node.js** & diving into **full-stack development**
+- 📚 Studying **English** to level up communication
+- 📫 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrian-mamchuk/)
+- ⚡ Fun fact: I'm also a **retail investor** in the stock market
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
+
+#### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?logo=node-red&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StronDator&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StronDator&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=StronDator&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+✨ _Always curious, always learning, always building._ 🚀
